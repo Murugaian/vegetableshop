@@ -1,0 +1,32 @@
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+    
+    
+}
+.shop-img {
+    width: 200px;
+    height: 200px;
+}
+.shop-item {
+    border-color : black ;
+    border-style : solid ;
+    border-radius: 10px;
+    margin: 30px;
+}
+h1 {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    
+    
+}
+.item.img {
+    width: 70px;
+}
+/* .table {
+    padding: 5%;
+} */
+.table {
+    width: 100%;
+    
+}
